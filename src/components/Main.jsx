@@ -9,7 +9,7 @@ const Main = () => {
   };
 
   return (
-    <div className="bg-[#a3b18a] text-[#3a5a40] h-[40rem] md:py-10">
+    <div className="bg-[#a3b18a] text-[#3a5a40] h-[36.4rem] md:h-[36.8rem]md:py-10">
       <div className="w-[95%] md:w-[80%] mx-auto p-2">
         <div className="md:flex flex-row-reverse md:mb-4">
           <div className="flex-1 flex justify-center items-center">

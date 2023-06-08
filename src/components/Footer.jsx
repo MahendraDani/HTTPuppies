@@ -9,7 +9,7 @@ const Footer = () => {
   };
   return (
     <>
-      <div className="absolute bottom-0 left-0 right-0 bg-[#588157] text-[#dad7cd] p-4">
+      <div className="bg-[#588157] text-[#dad7cd] p-4">
         <div className="w-full md:w-[80%] md:mx-auto px-2 md:px-6 flex justify-center items-center">
           <div className="flex flex-col justify-evenly items-center gap-2">
             <div>
